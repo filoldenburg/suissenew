@@ -1,13 +1,13 @@
 @font-face {
   font-family: 'Suisse Light';
-  src: url('https://filoldenburg.github.io/suissenew/fonts/SuisseIntl-Light.woff2') format('woff');
+  src: url('https://filoldenburg.github.io/suissenew/fonts/SuisseIntl-Light.woff2') format('woff2');
   font-weight: normal;
   font-style: normal;
 }
 
 @font-face {
     font-family: 'SuisseIntl Regular';
-    src: url('https://filoldenburg.github.io/suissenew/fonts/SuisseIntl-Regular.woff2') format('woff');
+    src: url('https://filoldenburg.github.io/suissenew/fonts/SuisseIntl-Regular.woff2') format('woff2');
     font-weight: normal;
     font-style: normal;
 }
