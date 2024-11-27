@@ -1,3 +1,7 @@
+body {
+    font-family: 'SuisseIntl', sans-serif;
+}
+
 @font-face {
   font-family: 'Suisse Light';
   src: url('https://filoldenburg.github.io/suissenew/fonts/SuisseIntl-Light.woff2') format('woff2');
